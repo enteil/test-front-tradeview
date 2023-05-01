@@ -1,6 +1,6 @@
 # Test Front TradeView 💰
 
-Desarrollo de landing pago para prueba técnica, se usó Vue.js y Tailwind CSS.
+Desarrollo de landing page para prueba técnica, se usó Vue.js y Tailwind CSS.
 
 ## 🏃‍♀️ Como correr 🏃‍♂️
 
