@@ -79,4 +79,7 @@ export default {
 .NavbarBodyWrapper {
   @apply flex items-center mx-auto justify-between md:pr-10 md:py-2 md:pl-4;
 }
+.NavbarBody {
+  @apply p-4 bg-custom-dark-blue;
+}
 </style>

@@ -4,7 +4,7 @@
       <div
         class="md:col-span-5 sm:col-span-1 p-0 md:block flex-row items-center md:items-start sm:p-4"
       >
-        <img class="h-10 mb-4 md:mx-0 mx-auto" :src="logoWhite" alt="" />
+        <img class="h-10 mb-8 md:mx-0 mx-auto" :src="logoWhite" alt="" />
         <div class="text-white text-sm space-y-1.5 md:text-left text-center">
           <p class="font-extralight">
             <strong>Tradeview Markets</strong> | Grand Cayman, KY1-1002, 4th
@@ -51,7 +51,6 @@
             >
               <img class="h-12" :src="surfLogo" alt="" />
             </div>
-
             <div
               class="md:col-span-8 sm:col-span-1 flex align-middle items-center text-center justify-center"
             >
@@ -230,33 +229,33 @@ export default {
   },
   data() {
     return {
-      logoWhite: require("../../../assets/logo2.png"),
-      surfLogo: require("../../../assets/surf-logo.png"),
+      logoWhite: require("../../assets/logo2.png"),
+      surfLogo: require("../../assets/surf-logo.png"),
       socialMediaLogos: [
         {
           name: "Twiter",
           link: "https://twitter.com/Tradeview_",
-          logo: require("../../../assets/social-media-logos/twiter.png"),
+          logo: require("../../assets/social-media-logos/twiter.png"),
         },
         {
           name: "Facebook",
           link: "https://www.facebook.com/TradeviewMarkets/",
-          logo: require("../../../assets/social-media-logos/facebook.png"),
+          logo: require("../../assets/social-media-logos/facebook.png"),
         },
         {
           name: "Linkedin",
           link: "https://www.linkedin.com/company/tradeview-forex/",
-          logo: require("../../../assets/social-media-logos/linkedin.png"),
+          logo: require("../../assets/social-media-logos/linkedin.png"),
         },
         {
           name: "Instagram",
           link: "https://www.instagram.com/tradeviewmarkets/",
-          logo: require("../../../assets/social-media-logos/instagram.png"),
+          logo: require("../../assets/social-media-logos/instagram.png"),
         },
         {
           name: "YouTube",
           link: "https://www.youtube.com/@TradeviewMarkets",
-          logo: require("../../../assets/social-media-logos/youtube.png"),
+          logo: require("../../assets/social-media-logos/youtube.png"),
         },
       ],
       footer: {

@@ -6,3 +6,8 @@ export default {
   name: "navbar-contact",
 };
 </script>
+<style>
+.NavbarContactBody {
+  @apply text-white  text-xs font-light cursor-pointer;
+}
+</style>

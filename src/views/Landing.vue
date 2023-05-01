@@ -84,7 +84,7 @@
 </template>
 <script>
 import Navbar from "@/components/Navbar/Navbar.vue";
-import FooterBrands from "@/components/Footer/FooterBrand/FooterBrands.vue";
+import FooterBrands from "@/components/Footer/FooterBrands.vue";
 export default {
   name: "landing-page",
   components: { Navbar, FooterBrands },

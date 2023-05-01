@@ -12,16 +12,4 @@ body {
 @tailwind screens;
 
 @layer components {
-  /* .CardStyles {
-    @apply rounded-lg p-4;
-  }
-  */
-
-  .NavbarBody {
-    @apply p-4 bg-custom-dark-blue;
-  }
-
-  .NavbarContactBody {
-    @apply text-white  text-xs font-light cursor-pointer;
-  }
 }
