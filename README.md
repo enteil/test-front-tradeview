@@ -1,24 +1,11 @@
-# mvp-front
+# Test Front TradeView 💰
 
-## Project setup
-```
-npm install
-```
+Desarrollo de landing pago para prueba técnica, se usó Vue.js y Tailwind CSS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🏃‍♀️ Como correr 🏃‍♂️
 
-### Compiles and minifies for production
 ```
-npm run build
+1️⃣ Descarga el Repositorio ⬇️
+2️⃣ Ejecuta npm i o npm install ⚙️
+3️⃣ Corre con npm run serve 😎
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
